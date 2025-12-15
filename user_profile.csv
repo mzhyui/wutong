@@ -1,0 +1,11 @@
+user_id,arpu_level,app_preference,roaming_type
+U001,>100,'take-away;shotvideo',local
+U002,50-100,'gaming;social',remote
+U003,<50,'learning;tool',local
+U004,50-100,'social;news',remote
+U005,>100,'finance;productivity',local
+U006,<50,'music;podcast',remote
+U007,50-100,'shopping;video',local
+U008,>100,'gaming;streaming',remote
+U009,<50,'utility;weather',local
+U010,50-100,'travel;navigation',remote
