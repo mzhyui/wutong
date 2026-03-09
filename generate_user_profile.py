@@ -85,7 +85,7 @@ def analyze_data(filename: str = "user_activities.csv") -> None:
 
 if __name__ == "__main__":
     # Generate 20 entries
-    generate_user_entries(n=1000)
+    generate_user_entries(n=50)
     
     # Analyze the data
     analyze_data("user_activities.csv")

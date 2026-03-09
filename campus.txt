@@ -1,0 +1,47 @@
+============================================================
+Campus Environment, Competitor & Base Station Analysis Summary
+校园环境、竞品与基站分析总结
+============================================================
+
+【Campus POIs 校园设施】
+Total POIs: 31
+POI Types: 7
+
+POIs by type:
+  商业: 10
+  宿舍: 9
+  教学楼: 7
+  食堂: 2
+  图书馆: 1
+  体育馆: 1
+  公共服务: 1
+
+【Competitor Shops 竞品商店】
+Total shops: 30
+Shop categories: 10
+
+Shops by category:
+  奶茶: 8
+  快餐: 5
+  服务: 4
+  咖啡: 3
+  便利店: 3
+  文创: 2
+  轻食: 2
+  烘焙: 1
+  零食: 1
+  百货: 1
+
+【Base Stations 基站】
+Total base stations: 29
+Coverage types: 2
+
+Base stations by coverage type:
+  室内: 17
+  室外: 12
+
+【Geographic Range 地理范围】
+Latitude range: 32.0438 to 32.0495
+Longitude range: 118.7868 to 118.7935
+Area coverage: ~0.63 km × 0.63 km
+============================================================

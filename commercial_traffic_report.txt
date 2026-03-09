@@ -1,0 +1,71 @@
+================================================================================
+NORTH COMMERCIAL ZONE (北门商业区) - TRAFFIC ANALYSIS REPORT
+================================================================================
+
+1. OVERALL STATISTICS
+--------------------------------------------------------------------------------
+   Total Connections: 1,604
+   Unique Users: 50
+   Base Stations: BS106, BS208, BS215, BS216, BS209, BS217
+   Time Period: 2024-06-01 00:33:07 to 2024-06-07 23:03:50
+   Duration: 7 days
+
+2. BASE STATION LOAD DISTRIBUTION
+--------------------------------------------------------------------------------
+   BS106: 288 connections (17.96%)
+   BS217: 281 connections (17.52%)
+   BS215: 271 connections (16.90%)
+   BS216: 267 connections (16.65%)
+   BS208: 263 connections (16.40%)
+   BS209: 234 connections (14.59%)
+   Average per station: 267.3 connections
+   Load balance ratio: 1.23x (max/min)
+
+3. PEAK HOURS ANALYSIS
+--------------------------------------------------------------------------------
+   Top 5 Peak Hours:
+      18:00 - 137 connections
+      19:00 - 117 connections
+      16:00 - 109 connections
+      20:00 - 108 connections
+      12:00 - 107 connections
+
+   Top 5 Off-Peak Hours:
+      02:00 - 27 connections
+      03:00 - 29 connections
+      04:00 - 29 connections
+      05:00 - 29 connections
+      06:00 - 32 connections
+
+4. USER PERSONA DISTRIBUTION
+--------------------------------------------------------------------------------
+   social_student: 459 connections (28.62%)
+   academic: 309 connections (19.26%)
+   shopaholic: 291 connections (18.14%)
+   foodie: 265 connections (16.52%)
+   dormitory_resident: 132 connections (8.23%)
+   student_athlete: 82 connections (5.11%)
+   traveler: 37 connections (2.31%)
+   commuter: 29 connections (1.81%)
+
+5. WEEKDAY vs WEEKEND PATTERNS
+--------------------------------------------------------------------------------
+   Weekday Traffic: 1,105 connections
+   Weekend Traffic: 499 connections
+   Weekend/Weekday Ratio: 0.45x
+
+6. HOURLY TRAFFIC STATISTICS
+--------------------------------------------------------------------------------
+   Average per hour: 66.8 connections
+   Peak hour traffic: 137 connections
+   Off-peak hour traffic: 27 connections
+   Peak/Off-peak ratio: 5.07x
+
+7. BUSINESS INSIGHTS
+--------------------------------------------------------------------------------
+   Lunch Hours (11:00-13:00): 279 connections (17.4%)
+   Dinner Hours (17:00-20:00): 468 connections (29.2%)
+
+   Dominant User Type: social_student (28.6%)
+
+================================================================================
